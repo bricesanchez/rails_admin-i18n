@@ -1,4 +1,5 @@
 # rails_admin-i18n
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/bricesanchez/rails_admin-i18n?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [![Build Status](https://secure.travis-ci.org/puma07/rails_admin-i18n.png)](http://travis-ci.org/puma07/rails_admin-i18n)
 
